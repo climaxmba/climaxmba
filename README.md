@@ -3,11 +3,11 @@
 </div>
 
 ## 👨‍💻 About Me
-I am a frontend developer.
-- 🏗 Building with JavaScript, TypeScript, SCSS, Next and React.
-- 📖 Learning React Native.
-- 🔰 Eager to learn Express, MongoDB and Django.
-- 📥 You can reach me on <a href="https://www.linkedin.com/in/climaxmba/">LinkedIn</a>
+I am a Frontend Engineer.
+- 🏗 Building with TypeScript, TailwindCSS, and React.
+- 📖 Learning PostgressSQL + NodeJS.
+- 😋 Eager to learn VueJS and Nuxt.
+- 📥 You can reach me on [LinkedIn](https://www.linkedin.com/in/climaxmba/).
 
 ## 🛠 Languages and Tools
 <div>
@@ -23,9 +23,9 @@ I am a frontend developer.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+## 📊 GitRoll
+<a href="https://gitroll.io/profile/u9zwzqOwtQ5hdOhoMSBtJH4NVlFp1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u9zwzqOwtQ5hdOhoMSBtJH4NVlFp1" style="display: block; max-width: 500px" alt="GitRoll Profile Badge"/></a>
+
 ## 🔥 My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=climaxmba&theme=dark)](https://git.io/streak-stats)<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?&card_width=350&username=climaxmba&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📊 GitRoll
-<a href="https://gitroll.io/profile/u9zwzqOwtQ5hdOhoMSBtJH4NVlFp1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u9zwzqOwtQ5hdOhoMSBtJH4NVlFp1" style="display: block; max-width: 500px" alt="GitRoll Profile Badge"/></a>

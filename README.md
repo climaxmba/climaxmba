@@ -23,9 +23,6 @@ I am a Frontend Engineer.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## 📊 GitRoll
-<a href="https://gitroll.io/profile/u9zwzqOwtQ5hdOhoMSBtJH4NVlFp1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u9zwzqOwtQ5hdOhoMSBtJH4NVlFp1" style="display: block; max-width: 500px" alt="GitRoll Profile Badge"/></a>
-
 ## 🔥 My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=climaxmba&theme=dark)](https://git.io/streak-stats)<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?&card_width=350&username=climaxmba&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
